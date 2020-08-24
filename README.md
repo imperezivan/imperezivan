@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-There are two secrets to success: 1. Never tell everything you know
+There are two secrets to success: 
+
+1. Never tell everything you know
 
 <!--
 **imperezivan/imperezivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
