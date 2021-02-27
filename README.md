@@ -5,9 +5,9 @@ There are two secrets to success:
 1. Never tell everything you know
 
 
-Frontend developer ✅
-Backend  developer ✅
-Weekend developer  ✅
+Frontend developer ✅ <br>
+Backend  developer ✅ <br>
+Weekend developer  ✅ <br>
 
 <!--
 **imperezivan/imperezivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
