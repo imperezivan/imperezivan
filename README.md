@@ -7,7 +7,7 @@ There are two secrets to success:
 
 Frontend developer ✅ <br>
 Backend&nbsp; developer ✅ <br>
-Weekend&nbsp; developer  ✅ <br>
+Weekend developer  ✅ <br>
 
 <!--
 **imperezivan/imperezivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
