@@ -1,8 +1,7 @@
 ### Hello there 👋
 
-There are two secrets to success: 
+Your code might destroy production but will never break your heart. 💻 ❤
 
-1. Never tell everything you know
 
 
 Frontend developer ✅ <br>
